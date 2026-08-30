@@ -18,9 +18,8 @@ Game catur berbasis web yang interaktif dan dioptimalkan khusus untuk tampilan p
 ## 🚀 Live Demo
 
 Mainkan gamenya langsung di browser Anda:
-👉 **[Masukkan Link GitHub Pages Anda Di Sini]**
+👉 **[https://sans-githb.github.io/Chess_master_mobile/]**
 
-*(Contoh: https://username-anda.github.io/nama-repository/)*
 
 ## 🛠️ Teknologi yang Digunakan
 
