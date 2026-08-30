@@ -31,6 +31,5 @@ Mainkan gamenya langsung di browser Anda:
 
 Jika Anda ingin menjalankan atau memodifikasi game ini secara lokal:
 
-1. Unduh atau *Clone repository* ini:
-   ```bash
-   git clone [https://github.com/](https://github.com/)[username-anda]/[nama-repository].git
+1. Unduh atau *Clone repository* ini: git clone https://github.com/sans-githb/Chess_master_mobile.git
+   
